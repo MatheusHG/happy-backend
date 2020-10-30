@@ -1,2 +1,2 @@
 # happy-backend
-Projeto em Desenvolvimento durante a semana da Next Level Week da Rocketseat
+Projeto Desenvolvido durante a semana da Next Level Week da Rocketseat
